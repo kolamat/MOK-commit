@@ -38,6 +38,7 @@ button:hover {
   background-size: 400%;
   box-shadow: 0 0 15px rgb(2, 4, 24);
   animation: glow 12s linear forwards;
+  padding: 30px;
 }
 
 button::before {
@@ -59,6 +60,7 @@ button:hover::before {
   z-index: -1;
 }
 
+/* 
 @keyframes glow {
   from {
     background-position: 0%;
@@ -67,4 +69,4 @@ button:hover::before {
   to {
     background-position: 400%;
   }
-}
+} */
