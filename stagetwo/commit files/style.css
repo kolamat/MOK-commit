@@ -60,7 +60,7 @@ button:hover::before {
   z-index: -1;
 }
 
-/* 
+
 @keyframes glow {
   from {
     background-position: 0%;
@@ -69,4 +69,4 @@ button:hover::before {
   to {
     background-position: 400%;
   }
-} */
+}
